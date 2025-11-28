@@ -2,6 +2,8 @@
 
 Welcome to the repository for a Python script designed to extract **Canonical Pose (Rest Pose)** and **Bind Pose** data from the [MHR (Momentum Human Rig)](https://github.com/facebookresearch/MHR) model's checkpoint files.
 
+<img width="622" height="566" alt="image" src="https://github.com/user-attachments/assets/70097083-0cae-493b-a75a-1284bd46ab4c" />
+
 -----
 
 ## 🛠️ Usage Guide
